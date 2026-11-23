@@ -1,0 +1,569 @@
+{
+  "checked": "2026-11-23",
+  "events": {
+    "01040088-70e3-5f81-b5ea-5168bc1c19c0@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-03",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "SCARFO' LYDIA",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "0aec15ce-6397-53a6-9706-8604088e8010@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-24",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "DAMANTI SARAH",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "116a3295-8a51-55a1-9481-225904c0cae3@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-20",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "MANGIATERRA VIVIANA",
+        "title": "Access to medicines in low-and middle-income Countries"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "14a78b2f-fd7b-5332-acde-3c1adb01512c@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-16",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "PECORELLI NICOLO'",
+        "title": "Fundamentals of clinical research"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "1ad86655-876c-56d9-843d-5a4a3203877a@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-01",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "OGLIARI ANNA LUCIA",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "2e79709f-21a0-56d2-b89d-98ba0ea1f0cd@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-25",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "SALVATORE STEFANO",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "31c76f3f-38c4-55b7-b79d-2ffb6c0315c9@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-03",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "AIUTI ALESSANDRO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "39d33a89-ec44-5be2-bfa5-0e0080f8c39c@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-17",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "PERETTO GIOVANNI",
+        "title": "Precision Cardiology: Integrating Advanced ECG and Translational Research in the Management of Complex Cardiomyopathies"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "3a16dd69-1559-5ec1-9496-82bd6a465611@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-02",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "MANFREDI ANGELO ANDREA M. A.",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "3ad5c186-8c82-55f1-8e34-24a0a1e3161b@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-11",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "LUPO STANGHELLINI MARIA TERESA",
+        "title": "Supportive Care in Intensive Oncological Treatments"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "3c8b21c1-b9d1-5745-9c32-82712ea190c9@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-23",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "SALVATORE STEFANO",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "452ffab5-5a49-5c52-b357-a4899d30587b@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-18",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "LUPO STANGHELLINI MARIA TERESA",
+        "title": "Supportive Care in Intensive Oncological Treatments"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "48fdbe60-00d7-5acd-90fe-d90afa4821e6@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-25",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "BERNARDO MARIA ESTER",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "503db458-c08b-5bb1-ba57-dc31239ec057@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-24",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "PERETTO GIOVANNI",
+        "title": "Precision Cardiology: Integrating Advanced ECG and Translational Research in the Management of Complex Cardiomyopathies"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "53ec6bcf-c59c-5c20-a13c-664f029e6bb6@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-02",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "LEVA ERNESTO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "54448255-ba27-59ba-888c-e50122e840c4@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-01",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "PERETTO GIOVANNI",
+        "title": "Precision Cardiology: Integrating Advanced ECG and Translational Research in the Management of Complex Cardiomyopathies"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "559a8e0b-29a5-5617-983b-2dd9e071ac81@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-04",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "SCARFO' LYDIA",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "56492201-dfea-5dc0-a966-210844b4fe9b@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-17",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "ORIGONI MASSIMO",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "57ded27d-efa0-54c7-8d88-975e5c6e8be9@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-25",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "MANFREDI ANGELO ANDREA M. A.",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "59a9c197-f1a9-530f-bc87-db18dc308af1@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-04",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "ERNESTO LEVA",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "634e231a-20cc-5c6d-ad3a-347dc16788c8@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-30",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "FERMI FRANCESCA",
+        "title": "Fundamentals of clinical research"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "64e4fc5a-7620-5306-af50-a1f814c9e823@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-15",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "PERETTO GIOVANNI",
+        "title": "Precision Cardiology: Integrating Advanced ECG and Translational Research in the Management of Complex Cardiomyopathies"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "6f02e8eb-bcfb-5c47-a1bd-641102d4b35f@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-26",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "ERNESTO LEVA",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "6fd3ed3f-055c-5a01-8733-0434590ed8ee@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-18",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "ORIGONI MASSIMO",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "73d15b09-89ec-5c08-a153-a2a849cd75d2@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-18",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "DAMANTI SARAH",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "76298c76-5dfb-5a23-9c88-47f97e9f3913@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-09",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "SCARFO' LYDIA",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "7bb0d3e9-035c-50a1-b740-e2b52f646c6a@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-16",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "SALVATORE STEFANO",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "84a2c3a1-6a70-54b1-bc39-6bdc1472e9ec@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-01",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "MANFREDI ANGELO ANDREA M. A.",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "8ca017da-6412-5514-b0da-8534da2936f7@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-16",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "BERNARDO MARIA ESTER",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "92750656-b6f5-5fb7-a187-e7667da4fd61@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-20",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "OGLIARI ANNA LUCIA",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "a002282f-7a7c-595c-b654-ae60dad332da@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-11",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "AIUTI ALESSANDRO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "a80249b9-7546-58da-bd93-3cbc31082368@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-20",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "BERGAMINI ALICE",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "aa30d716-9475-54a4-8983-0e04e9ccaf7a@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-03",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "AIUTI ALESSANDRO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "ab4abf02-d6d3-5aa4-8a0e-66b1b7db874f@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-24",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "AIUTI ALESSANDRO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "b21c68ec-b37e-5a5b-a826-4fdb4274d6ab@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-16",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "BERNARDO MARIA ESTER",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "b58d4aff-3214-5eaa-aacf-22fbeccecaed@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-02",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "BERGAMINI ALICE",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "ba5daedf-196a-55d7-a971-b89d82fe954b@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-18",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "OGLIARI ANNA LUCIA",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "bb2b7cbe-f27f-54e0-b1bf-d4b5be596f5c@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-01",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "LEVA ERNESTO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "bc987913-97af-5384-9111-a88374842250@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-26",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "MANFREDI ANGELO ANDREA M. A.",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "c5ad4467-ad04-536c-b542-4448527f259f@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-23",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "BERNARDO MARIA ESTER",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "cad7e22f-540b-564f-815d-50653e5a4c2a@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-19",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "DAMANTI SARAH",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "cd239f08-37cd-5bf9-816c-3fdc9aa962e7@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-23",
+        "end": "17:30",
+        "start": "15:30",
+        "teacher": "FERMI FRANCESCA",
+        "title": "Fundamentals of clinical research"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "d0d367e7-0794-5f8c-85d3-37bfba163bd9@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-26",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "BERNARDO MARIA ESTER",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "d22ff8a1-9ebb-5f37-9760-5c0b02a12341@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-04",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "AIUTI ALESSANDRO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "d95d7477-8dc9-5cce-9417-3b3692932038@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-12-02",
+        "end": "15:30",
+        "start": "13:30",
+        "teacher": "LEVA ERNESTO",
+        "title": "Children's health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "e2f7a8a2-3e8a-51d2-8979-ce7585dbbe30@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-17",
+        "end": "12:30",
+        "start": "10:30",
+        "teacher": "DAMANTI SARAH",
+        "title": "Medical approach to the patient: chronic care"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    },
+    "ff14be54-d2af-5c30-b424-cb4c0fddb28e@unisr-imdp5": {
+      "active": true,
+      "event": {
+        "day": "2026-11-24",
+        "end": "10:30",
+        "start": "08:30",
+        "teacher": "ORIGONI MASSIMO",
+        "title": "Womens' health"
+      },
+      "sequence": 0,
+      "stamp": "20261123T161712Z"
+    }
+  }
+}
